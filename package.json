@@ -1,0 +1,21 @@
+{
+  "name": "get-image-base64",
+  "version": "1.0.0",
+  "description": "use canvas api get images base64",
+  "main": "index.js",
+  "keywords": [
+    "image",
+    "base64",
+    "canvas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackHole1/get-image-base64.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BlackHole1/get-image-base64/issues"
+  },
+  "homepage": "https://github.com/BlackHole1/get-image-base64#readme",
+  "author": "Black-Hole <158blackhole@gmail.com>",
+  "license": "MIT"
+}
