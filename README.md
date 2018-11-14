@@ -1,6 +1,8 @@
 # get-image-base64
 
-> use canvas api get images base64
+[![Github License](https://img.shields.io/github/license/BlackHole1/get-image-base64.svg?logo=appveyor&longCache=true&style=flat-square)](https://github.com/BlackHole1/get-image-base64) [![Github Stars](https://img.shields.io/github/stars/BlackHole1/get-image-base64.svg?logo=appveyor&longCache=true&style=flat-square)](https://github.com/BlackHole1/get-image-base64)
+
+> use canvas api get images base64, all currently only support browsers.
 
 ## Use
 
