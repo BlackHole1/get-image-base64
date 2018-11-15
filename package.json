@@ -1,6 +1,6 @@
 {
   "name": "get-image-base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "use canvas api get images base64",
   "main": "index.js",
   "keywords": [
